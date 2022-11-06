@@ -1,2 +1,2 @@
 # Task
-1)Дана сторона равностороннего треугольника.Найти площадь этого треугольника.
+1) The side of an equilateral triangle is given.Find the area of this triangle.
